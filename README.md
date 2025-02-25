@@ -1,4 +1,4 @@
-```
+
 # 👋 Sarah Johnson - Full Stack Developer 📍 San Francisco
 
 [![Followers](https://img.shields.io/github/followers/sarahjohnson?style=social)](https://github.com/sarahjohnson?tab=followers)
@@ -66,4 +66,4 @@ A passionate full-stack developer with 5+ years of experience in building scalab
 
 *   GitHub: [https://github.com/sarahjohnson](https://github.com/sarahjohnson)
 *   LeetCode: [https://leetcode.com/sarahjohnson](https://leetcode.com/sarahjohnson)
-```
+
